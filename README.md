@@ -7,21 +7,18 @@ This app uses the hivemq public broker for MQTT (and paho mqtt library for java)
 ***Stored Database using SQLite Example***
 
 
-![Alt text](./img/Database.png?raw=true "Databse")
+<img src="./img/Database.PNG" alt="Database" width="400"/>
 
 
 ***App Screenshots***
 
-![Alt text](./img/textViewcrop.png?raw=true "Date in Text View on the APP")
+<img src="./img/textViewcrop.png" alt="Date in Text View" width="300"/>
 
+<img src="./img/flowrate_screenshot.png" alt="Flow rate chart" width="300"/>
 
-![Alt text](./img/flowrate_screenshot.png?raw=true "Flow rate chart")
+<img src="./img/volume.png" alt="Volume chart" width="300"/>
 
-
-![Alt text](./img/volume.png?raw=true "Volume chart")
-
-
-![Alt text](./img/alert.png?raw=true "Alert")
+<img src="./img/alert.PNG" alt="Alert" width="300"/>
 
 
 
